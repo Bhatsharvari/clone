@@ -1,0 +1,148 @@
+ .content{
+    border: 2px solid black;
+    width: 1300px;
+    height: 800px;
+    background-color: darkblue;
+    color: white;
+    margin-top: 10px;
+    padding-top: 60px;
+    padding-left: 100px;
+    
+    
+} 
+.table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+#head{
+    display: flex;
+    /* align-items: center; */
+    padding-top: 70px;
+    padding-left: 100px;
+}
+
+#head1{
+    display: flex;
+    /* align-items: center; */
+    padding-left: 100px;
+}
+
+#checkbox{
+    color: grey;
+}
+#Acc{
+    color: grey;
+}
+#Acc1{
+    margin-left: 100px;
+    
+    color: aqua;
+}
+
+#or{
+    color: grey;
+    align-items: center;
+}
+#sign{
+    color: navy;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 40px;
+    width: 400px;
+}
+#button{
+    background-color: hotpink;
+    color: white;
+    border-radius: 12px;
+    width: 100px;
+    height: 40px;
+    margin-left: 100px;
+    
+}
+
+.float-container{
+    /* border: 3px solid #fff; */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.float-child{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    /* border: 2px solid red; */
+}
+
+.form{
+    border: 2px solid yellow; 
+     width: 350px;
+    height: 450px; 
+    background-color: white; 
+    margin-top: 150px;
+    
+    padding: 10px;
+    
+    /* margin-left: 400px;
+   margin-bottom: 00px; */
+    
+    /* padding-left: 400px;
+    padding-top: 10px;
+    */
+ } 
+
+#btn{
+    border-radius: 12px;
+    background-color: blue;
+    height: 40px;
+    width: 300px;
+}
+#btn1{
+    border-radius: 12px;
+    background-color: skyblue;
+    height: 40px;
+    width: 300px;
+}
+#name{
+    border-radius: 12px;
+    height: 40px;
+    width: 300px;
+   padding-left: 20px;
+}
+
+#password{
+    border-radius: 12px;
+    height: 40px;
+    width: 300px;
+    padding-left: 20px;
+}
+
+.nav ul{
+    /* border: 2px solid pink; */
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    margin-right: 100px;
+    
+    align-items: center;
+   list-style: none;
+   color: white;
+}
+#start{
+    color: grey;
+    margin-left: 90px;
+    margin-top: 100px;
+   margin-right: 150px;
+   font-weight: bold;
+   
+   
+}
+#pur{
+    background-color: hotpink;
+    height: 30px;
+    width: 90px;
+}
+
